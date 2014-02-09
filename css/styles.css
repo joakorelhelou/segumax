@@ -1,0 +1,66 @@
+body {
+
+}
+
+.wrap{
+	margin-top: 100px;
+	
+}
+
+.formSubmit{
+	padding:50px;
+}
+
+.title-wrapper{
+    background-color: #EEEEEE;
+    border-bottom: 1px solid #DDDDDD;
+    margin-bottom: -50px;
+    padding-bottom: 12px;
+    padding-top: 80px;
+}
+
+.navbar-inner {
+    border-bottom: 3px solid #0074CC;
+}
+
+.footer {
+    border-top: 1px solid #DDDDDD;
+    color: #999999;
+    margin-top: 40px;
+    padding-bottom: 10px;
+    padding-top: 70px;
+}
+
+
+.activity.type-3, .activity.type-14, .activity.type-16, .activity.type-17 {
+    border-left: 3px solid #1FAA02;
+}
+.activity {
+    border-bottom: medium none;
+    border-left: 3px solid #DDDDDD;
+    padding-left: 8px;
+    padding-top: 0;
+}
+.activity {
+    border-bottom: 1px dotted #999999;
+    padding-top: 16px;
+}
+
+.activity .date {
+    color: #999999;
+    font-style: italic;
+}
+
+.dashboard-mini-panels li {
+    float: left;
+    list-style-type: none;
+    margin: 10px 4% 0 0;
+    padding: 0;
+    width: 45%;
+}
+li {
+    line-height: 20px;
+}
+.dashboard-mini-panels {
+    list-style-type: none;
+}

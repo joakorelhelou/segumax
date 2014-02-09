@@ -1,0 +1,9 @@
+<?php
+if($_GET){
+	session_start();
+	session_destroy();
+	header("location:view/login.php?logout=1");
+}else{ 
+header("location:view/login.php");
+}
+?>

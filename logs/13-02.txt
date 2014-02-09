@@ -1,0 +1,160 @@
+13-02-18 21:02:47 El usuario Productor Joaquin ha modificado el cliente Whannish Jorge
+ 
+13-02-18 21:17:13 El usuario Admini admin ha modificado los datos del productor jose Julian
+ 
+13-02-18 21:17:45 El usuario Admini admin ha modificado la compañía Liderars
+ 
+13-02-18 21:19:20 El usuario Admini admin ha registrado la compañía Seguros
+ 
+13-02-18 21:20:31 El usuario Productor Joaquin ha registrado el cliente rivera raul
+ 
+13-02-18 21:20:46 El usuario Productor Joaquin ha elimiando el cliente 9
+ 
+13-02-19 14:49:43 El usuario Perez Juan ha cancelado la solicitud 11
+ 
+13-02-19 17:50:29 El usuario Productor Joaquin ha enviado una solicitud para el cliente  5
+ 
+13-02-20 12:01:12 El usuario Admini admin ha modificado los datos del productor Alberto Juan
+ 
+13-02-20 12:17:44 El usuario Admini admin ha registrado al productor Producer Test
+ 
+13-02-20 12:19:07 El usuario Admini admin ha modificado los datos del productor Producer Test
+ 
+13-02-20 12:26:44 El usuario Admini admin ha registrado la compañía Test Company
+ 
+13-02-20 12:27:06 El usuario Admini admin ha modificado la compañía Test Company
+ 
+13-02-20 12:39:33 El usuario Admini admin ha registrado al administrador Admin Test
+ 
+13-02-20 12:39:48 El usuario Admini admin ha modificado los datos del administrador Admin Test
+ 
+13-02-20 12:40:06 El usuario Admini admin ha modificado los datos del administrador Admin Testo
+ 
+13-02-20 12:40:13 El usuario Admini admin ha modificado los datos del administrador Admin Test
+ 
+13-02-20 12:42:35 El usuario Admini admin ha modificado los datos del administrador Admin Testo
+ 
+13-02-20 12:43:23 El usuario Admini admin ha modificado los datos del administrador Admin Test
+ 
+13-02-20 12:44:48 El usuario Admini admin ha modificado los datos del administrador Admin Testo
+ 
+13-02-20 12:45:44 El usuario Admini admin ha modificado los datos del administrador Admin Test
+ 
+13-02-20 12:46:14 El usuario Admini admin ha modificado los datos del administrador Admino Testo
+ 
+13-02-20 12:46:27 El usuario Admini admin ha modificado los datos del administrador Admin Test
+ 
+13-02-20 12:48:53 El usuario Admini admin ha modificado los datos del administrador Admin Test
+ 
+13-02-20 12:49:51 El usuario Admini admin ha modificado los datos del administrador Adminl Test
+ 
+13-02-20 12:49:59 El usuario Admini admin ha modificado los datos del administrador Admin Test
+ 
+13-02-20 12:50:16 El usuario Admini admin ha modificado los datos del administrador Admini admin
+ 
+13-02-20 12:50:38 El usuario Admini admin ha modificado los datos del administrador Admini admin
+ 
+13-02-20 12:51:08 El usuario Admini admin ha modificado el cliente Arbide Mikel
+ 
+13-02-20 12:52:44 El usuario Admini admin ha modificado los datos del productor Producer Test
+ 
+13-02-20 12:53:45 El usuario Producer Test ha registrado el cliente Customer Test
+ 
+13-02-20 12:53:55 El usuario Producer Test ha modificado el cliente Customer Testo
+ 
+13-02-21 18:02:23 El usuario Company Testo ha registrado la cobertura Seguro automotríz
+ 
+13-02-21 18:06:58 El usuario Admini admin ha modificado la cobertura Seguro automotríz
+ 
+13-02-21 18:22:08 El usuario Producer Test ha enviado una solicitud para el cliente  9
+ 
+13-02-21 18:24:11 El usuario Productor Joaquin ha enviado una solicitud para el cliente  5
+ 
+13-02-21 18:28:13 El usuario Company Testo ha confirmado la solicitud 16
+ 
+13-02-21 18:33:03 El usuario Company Testo ha confirmado la solicitud 15
+ 
+13-02-21 18:41:35 El usuario Company Testo ha modificado la compañía Test Company
+ 
+13-02-21 18:43:07 El usuario Company Test ha modificado la compañía Test Company
+ 
+13-02-21 18:46:01 El usuario Company Test ha modificado la compañía Test Company
+ 
+13-02-21 18:46:17 El usuario Company Test ha modificado la compañía Test Company
+ 
+13-02-21 18:46:53 El usuario Company Test ha modificado la compañía Test Company
+ 
+13-02-21 18:51:53 El usuario Admini admin ha elimiando el cliente 8
+ 
+13-02-24 13:50:14 El usuario Producer Test ha modificado el cliente Customer Test
+ 
+13-02-24 13:50:45 El usuario Producer Test ha enviado una solicitud para el cliente  9
+ 
+13-02-24 13:59:17 El usuario Company Test ha registrado la cobertura Seguro contra Robos
+ 
+13-02-24 13:59:48 El usuario Company Test ha registrado la cobertura Seguro todo riesgo
+ 
+13-02-24 14:00:37 El usuario Company Test ha registrado la cobertura Seguro contra incendio
+ 
+13-02-24 14:00:47 El usuario Company Test ha registrado la cobertura Seguro choque de tercerosº
+ 
+13-02-24 14:00:53 El usuario Company Test ha modificado la cobertura Seguro choque de terceros
+ 
+13-02-24 14:01:11 El usuario Company Test ha registrado la cobertura Seguro contra desastre natural
+ 
+13-02-24 14:01:30 El usuario Company Test ha registrado la cobertura Seguro contra plagas
+ 
+13-02-24 14:26:30 El usuario Company Test ha confirmado la solicitud 17
+ 
+13-02-24 14:27:51 El usuario Company Test ha cancelado la solicitud 17
+ 
+13-02-24 14:31:22 El usuario Company Test ha cancelado la solicitud 17
+ 
+13-02-24 14:36:18 El usuario Company Test ha cancelado la solicitud 17
+ 
+13-02-24 14:36:40 El usuario Company Test ha confirmado la solicitud 17
+ 
+13-02-24 14:39:09 El usuario Company Test ha confirmado la solicitud 17
+ 
+13-02-24 14:41:47 El usuario Producer Test ha cancelado la solicitud 17
+ 
+13-02-24 14:42:23 El usuario Company Test ha cancelado la solicitud 17
+ 
+13-02-24 14:47:22 El usuario Admini admin ha eliminado al productor 2
+ 
+13-02-25 19:17:00 El usuario Admini admin ha registrado al productor productor juan raul
+ 
+13-02-25 19:17:14 El usuario Admini admin ha modificado los datos del productor productor juan raul
+ 
+13-02-25 19:17:27 El usuario Admini admin ha modificado los datos del productor productor juan raul
+ 
+13-02-25 19:21:27 El usuario Admini admin ha registrado la compañía Liberty Seguros
+ 
+13-02-25 19:23:59 El usuario Libertad Manuel ha registrado la cobertura Seguro contra Granizo
+ 
+13-02-25 19:24:29 El usuario Libertad Manuel ha modificado la compañía Liberty Seguros
+ 
+13-02-25 19:25:33 El usuario Admini admin ha modificado los datos del productor productor juan raul
+ 
+13-02-25 19:26:31 El usuario Admini admin ha registrado al productor Productor Claudio
+ 
+13-02-25 19:27:22 El usuario Productor Claudio ha registrado el cliente Martinez Mariano
+ 
+13-02-25 19:28:18 El usuario Productor Claudio ha enviado una solicitud para el cliente  10
+ 
+13-02-25 19:28:51 El usuario Libertad Manuel ha confirmado la solicitud 17
+ 
+13-02-25 21:06:04 El usuario Admini admin ha registrado al productor Luaces Sebastian
+ 
+13-02-25 21:07:20 El usuario Admini admin ha registrado la compañía Lucho seguros
+ 
+13-02-25 21:08:26 El usuario Wherli Luciano ha registrado la cobertura Seguro contra Granizo
+ 
+13-02-25 21:08:37 El usuario Wherli Luciano ha registrado la cobertura Seguro contra Robo
+ 
+13-02-25 21:10:48 El usuario Luaces Sebastian ha registrado el cliente Rodriguez Elhelou Joaquin
+ 
+13-02-25 21:13:38 El usuario Luaces Sebastian ha enviado una solicitud para el cliente  11
+ 
+13-02-25 21:14:10 El usuario Wherli Luciano ha confirmado la solicitud 18
+ 
